@@ -48,7 +48,7 @@ Project 1 - Hosting a website on AWS
 ![image](https://github.com/Rocket387/AWS-Projects/assets/66258779/27d5539e-4a86-4376-8e2f-858303e28bef)
 ![image](https://github.com/Rocket387/AWS-Projects/assets/66258779/daec8523-fa38-495f-80ee-3cf3ad537baf)
 
-  Here you need to apply the .json file and swap out the BUCKET-NAME for the name of your bucket, click Save changes
+  Here you need to add in the information from the S3 Bucket policy.txt file and swap out the BUCKET-NAME for the name of your bucket, click Save changes
 ![image](https://github.com/Rocket387/AWS-Projects/assets/66258779/a2c646d2-3d06-4f87-9c81-a9057a9327df)
 
 Click on the Objects tab and open your index.html file, then click Open in the top of the screen to see your website being hosted on AWS S3.
